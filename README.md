@@ -8,7 +8,7 @@
 - **Artificial Intelligence:** OpenAI, Machine Learning, NLP  
 - **Web Development:** Django, Flask  
 - **Databases:** MySQL, PostgreSQL  
-- **Cybersecurity:** OSINT, basic pentesting, protection against malicious scraping  
+- **Cybersecurity:** OSINT, pentesting, bug bounter  
 
 ## 📊 GitHub Stats  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guzzt&layout=compact&theme=dark)  
