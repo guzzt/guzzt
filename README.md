@@ -5,7 +5,7 @@
 
 ## 🛠️ Technologies  
 - **Automation & Web Scraping:** Python (Selenium, BeautifulSoup, Scrapy)  
-- **Artificial Intelligence:** OpenAI, Machine Learning, NLP  
+- **Artificial Intelligence:** LLMs,Machine Learning, NLP  
 - **Web Development:** Django, Flask  
 - **Databases:** MySQL, PostgreSQL  
 - **Cybersecurity:** OSINT, pentesting, bug bounter  
